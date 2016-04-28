@@ -1,0 +1,63 @@
+body{ background-color: #eef; }
+
+a {
+  text-decoration: none;
+  color: black; 
+}
+a:hover, a:focus { color: #667; }
+
+ol{
+  font: bold 100% monospace;
+  margin: 2%;
+}
+ol li{
+  list-style-type: decimal;
+  margin-left: 40px;
+}
+@media print, screen and (min-width: 551px) {
+  section{
+    width: 75%;
+    min-height: 100%;
+    position: relative;
+  }
+  
+  nav {
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-left: 3px solid #ddf;
+  }
+  nav ul {
+    margin-left: 35px;
+    bottom: 5%;
+    left: 75%;
+    position: fixed;
+  }
+  nav li { font: bold 100%/300% sans-serif; }
+}
+
+@media print, screen and (min-width: 551px) and (max-width: 799px) {
+  section { width: 65%; }
+  ul { left: 65%; }
+}
+
+@media print, screen and (max-width: 550px) {
+  #home-signature{
+    display: block;
+    width: 120px;
+    margin: 10px auto;
+  }
+
+  nav {
+    border-top: 3px solid #ddf;
+  }
+  nav ul{
+    margin-top: 10px;
+  }
+  nav li {
+    font: bold 100%/200% sans-serif;
+    text-align: center;
+  }
+}
