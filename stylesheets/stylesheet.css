@@ -18,7 +18,7 @@ ol li{
   section{
     width: 75%;
     min-height: 100%;
-    position: relative;
+    position: absolute;
   }
   
   nav {
