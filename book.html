@@ -3,13 +3,77 @@ layout: static
 title: Books
 style: /stylesheets/page.css
 ---
+<!--
+Template:
+
+  <article>
+  {% markdown %}
+# Year
+All the books and literatures that I've read in Year
+
+The asterisk (*) means that I've read most, if not all, of the book. No asterisk means I've read only half of the book.
+
+## Books
+
+  {% endmarkdown %}
+  </article>
+
+-->
+
 <section>
   {% include signature.html %}
-  <article markdown="block">
-  
-All the books and literature that I've read or currently reading in and *until* 2015
+  <article>
+  {% markdown %}
+# 2016
+All the books and literatures that I've read in 2016
 
-The asterisk (*) means that I've read most, if not all, of the book.
+The asterisk (*) means that I've read most, if not all, of the book. No asterisk means I've read only half of the book.
+
+## Poor Charlie's Almanack
+A book full of wisdom given from an old wise person. Charlie said that if you don't find the book useful, give it to a smarter friend of your. I concur.
+
+## Spin Selling
+It's always nice to see a complex human-related topic such as sales reduced to a simple enough, practical enough model that I can work with.
+
+## Steve Jobs
+Very interesting read. I use this book multiple times as "case studies" for my business course in college.
+
+## Javascript: The Good Parts
+Short and to the point. Love it.
+
+## Go Rin no Sho
+The book that made me accept that the ambiguous, eastern-style pattern of speech can carry practical meaning. I'm always skeptical of books or people who speak like one of those yogi or eastern spiritual teacher. This book show to me that such pattern of speech is able to carry practical meaning such as how to use a sword. Still, I prefer the concise pattern of speech that STEM-people use.
+
+## Army handbook (chinese history section)
+This is a short outline of how things was from ancient China to the current People Republic of China.
+
+## The C Programming Language
+I agree with Zedd's review about this book. There are lots of examples that showcase an ancient ways to write extremely concise but unreadable code. Luckily, I read this book to understand the C part of the Code Complete 2.
+
+## Code Complete 2
+This contains a lot of information within its hundreds of pages. Great book for programmer.
+
+## RSpec Book
+I used this book to understand the terminology and how to do TDD. Oops, I mean BDD.
+
+## Refactoring
+A book on cleaning up code and making sure that the code is flexible enough to dance and adapt in the face of changes.
+
+## Alice's Adventure in Wonderland
+If your body change drastically, are you still the same person? What defines "you"? Your body? Name? Status? Sense of self?
+
+## You are Your Own Gym
+I always want to work out so that I can do weird stuff like plank push-ups. Unfortunately, I don't have access to the gym. Now that I have the path to do weird stuff without access to a gym, all I need to do is get down and get my hands dirty (literally).
+
+  {% endmarkdown %}
+  </article>
+  
+  <article>
+  {% markdown %}
+# ... - 2015
+All the books and literatures that I've read **up to** 2015.
+
+The asterisk (*) means that I've read most, if not all, of the book. No asterisk means I've read only half of the book.
 
 ## The Dip by Seth Godin*
 I've encountered the concept of plateau when I'm learning Martial Art Tricking in high school. And so, the concept of dip isn't really new or insightful to me. In fact, this short book may be better presented as a blog post series. If you love learning new skills and are already familiar with the phases and challenges of skill learning, don't hope to get much insight from this book.
@@ -87,6 +151,7 @@ Some sort of unscientific organization theory literature. I've read this blog se
 This essay explains the true, current, sad state of mathematics in educational institution using clear analogy.
 
 # Programming Books
+
 ## Beginning Ruby by Peter Cooper
 A good technical book covering the basics of Ruby programming. I read this because it's part of theOdinProject curriculum.
 
@@ -96,5 +161,6 @@ A good technical book covering the basics of Ruby programming. I read this becau
 ## Learn Python the Hard Way by Zed Shaw*
 A very boring, yet straightforward book for beginner programmer. I actually skimmed a lot of sections while thinking "Yeah, I know what print/class/loop/etc. is, damn it.."
 
+  {% endmarkdown %}
   </article>
 </section>
