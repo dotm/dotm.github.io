@@ -1,4 +1,7 @@
 ---
 layout: post
-title: ""
+title: "Capitalize first word only"
 ---
+
+Make sure that the encoding is UTF-8
+Use double newline so that markdown will insert text break
