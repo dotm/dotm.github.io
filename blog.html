@@ -18,15 +18,15 @@ layout: default
   All in all, this is <em>my</em> journal. If you don't like it, then there are so many blogs that you can read instead of mine.
   If you disagree with me, use the "Email Me" at the bottom of the page to contact me.
   And whatever you do, please remember to <em>keep things civil</em>.
+  <br>
+  <br>
+  These are all my posts. You can use Ctrl+F or Cmd+F to find the post you're looking for.
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
   <p>
-
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-  
 </div>
-
