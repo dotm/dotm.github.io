@@ -61,7 +61,7 @@ A book on cleaning up code and making sure that the code is flexible enough to d
 If your body change drastically, are you still the same person? What defines "you"? Your body? Name? Status? Sense of self?
 
 ## You are Your Own Gym
-I always want to work out so that I can do weird stuff like plank push-ups. Unfortunately, I don't have access to the gym. Now that I have the path to do weird stuff without access to a gym, all I need to do is get down and get my hands dirty (literally).
+I always want to work out so that I can do weird stuff like planche push-ups. Unfortunately, I don't have access to the gym. Now that I have the path to do weird stuff without access to a gym, all I need to do is get down and get my hands dirty (literally).
 
   </article>
   
