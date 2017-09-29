@@ -39,7 +39,9 @@ You are ready to go to stage 3 once you find something that you’re passionate 
 
 ## Phase III (Autumn)
 
-Stage 3 is the stage of focus. Once you find your calling, focus on that thing.
+Stage 3 is the stage of focus. Once you find your calling, you must be courageous enough to focus intensely on that thing.
+
+I mention courage here because you will most likely be pressured to not focus in your calling by many people, including those closest to you. They’ll tell you that you need to be balanced, which is actually another word for mediocre. You’ll also experience pressure from other external non-human factors like societal norms, economical challenges, uncertainty, etc. Everyone can make good enough art. But, to be a great artist, you need to be fearless.
 
 You will still learn more things about yourself and the world. You will still need to accept your new findings. You may even still find other things you’re talented and passionate at that are feasible and realistic to pursue. But if you want to be a genius, you need to focus on a few things for decades.
 
@@ -53,7 +55,7 @@ Once you’re a living legend and have become bored at creating masterpieces (an
 
 ## Phase IV (Winter)
 
-A common pattern once you’ve become a genius is that you’ll want other people to become geniuses too. Unfortunately, you can’t create a genius; you can only open the door and point at it. 
+A common pattern once you’ve become a genius is that you’ll want other people to become geniuses too. Unfortunately, you can’t create a genius; you can only open the door that people must pass to become a genius and point at it.
 
 You might also try building better infrastructures and safety net for the next generations.
 

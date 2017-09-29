@@ -1,0 +1,136 @@
+---
+layout: post
+title: "Why I drop out"
+---
+
+My name is Yoshua Elmaryono. I was a student of University of Indonesia, one of the best universities in Indonesia. I enroll in the undergraduate program (Sarjana 1) of Business Administration (I can get into the Management undergraduate program, which is harder to get into, but I don’t want to, for various reasons). My latest GPA (IPK) is 3.59.
+
+I started learning about programming (web development) at my second semester at university (early 2015). As of now (October 2017), I decide to quit university and join a world of silicon, electron, and abstraction (the information and technology industry).
+
+The reason I make this post is so that, instead of explaining things multiple times to multiple people, I can link this post to others if they ask for reasons.
+
+Feel free to read this post if you want a case study of why a high GPA student may decide to drop out.
+
+WARNING: I tried my best not to offend too many people in this post. Unfortunately, for some people, the fact that I exist is already offensive. If you think I’m being arrogant if I say “I have a high GPA,” it’d probably be best if you click away, there are many spicier statements ahead and you might hate me because of them. Hating another person is like poisoning yourself while wishing that other person to die. Poisoning yourself is not a wise thing to do. So, just click away and watch some cat videos or something instead…
+
+WARNING for my friends: You know that I’m a pretty chill dude in real life. Unless you’re capable of seeing another side of me in this post without souring our relationship in real life, it’d probably be best if you click away.
+
+Note for non-Indonesian readers: here in Indonesia, college and university is synonymous, so I’d use both terms interchangeably throughout this post.
+
+So, why do I drop out? What are my reasons? 
+
+TLDR: The short answer is in the “The most important reason I drop out…” section below.
+
+The long answer is this 2200+ words post.
+
+Here are some (not all) of my reasons for dropping out of college.
+
+## I’ve fulfilled my objectives
+
+I have two objectives that I had set before I even went to the university: learn how business work as a system and learn how to manage my personal finance.
+
+Somehow, despite many interesting persuasions from all the people I’ve met in the university, I didn’t sway (my two goals don’t change).
+
+And I’ve fulfilled them both.
+
+Some people may say that I’m being wasteful: that I’m throwing all my past efforts to waste. But, from my perspective, I don’t throw it all away. Instead, I have focused my efforts in such a way that I’ve got what I want. And… I don’t bother to give any more effort.
+
+“But you won’t get a degree that way!”
+
+## I don’t need a degree
+
+I rely on my skills (and not other people opinions) in order to survive. 
+
+I get into the university from SBMPTN (score-based paper test) where my score is the only determinant of acceptance. I’ve tried getting in from SNMPTN (a direct invitation for bright, high achiever students), but I’m not accepted, since I’m not one of the bright students who rack up many organizational and committee (kepanitiaan) experiences, and have dozens of trophy in their house. 
+
+I’m not being sarcastic here. My cousin is one of these bright students and I’m proud of her. She’s going to take postgraduate program (Sarjana 2) on pediatric (medical science) in the University of Indonesia this 2017.
+
+I realize that I’m not one of those bright students. But, I have my skills. And I latch on to them as if my life depends on it (because my life do depends on it). And it pays off. I get into the tech industry in the same way I get into the university: using my skills (heck yeah…) and not other people opinion.
+
+“Why did you start telling personal stories? We were talking about college degree, right? Why did you start talking about skills and opinions?”
+
+Because, for me, the definition of college degree is this: a formal *opinion* from a formal institution that you are (read: you may or may not be) capable of stuffs.
+
+I don’t need a degree (a form of opinion) because my skills are enough to get me into the industry.
+
+“Wait, wait. What’s with this ‘you may or may not be’ that you put in that definition?”
+
+Let’s be honest, students cheat even here (or even in MIT or Harvard).
+
+How do I know? Well, I’m one of those cheaters and I’m also one of the credible “sources” of such things multiple times (especially in number-heavy subjects).
+
+My reason to cheat is because I hate the busywork of memorization, which brings me to the next reason.
+
+## Sunk cost, busywork, and career-planning
+
+“But if you just keep at it for one more semester, you would get a degree you know. :)” 
+
+Well, there’s this concept in economy called sunk cost, and I’m the kind of sensible freak who is capable of letting go of a huge amount of sunk cost without feeling any regret. But then again, I don’t have any regrets; I’ve fulfilled my objectives.
+
+Sunk Cost Fallacy: your decisions are tainted by the emotional investments (money, effort, time, etc.) you accumulate, and the more you invest in something the harder it becomes to abandon it even though abandoning that thing is the most rational decision (you get more value in the future if you decide to abandon it).
+
+“Continuing your study is a sunk cost?” 
+
+Yes. There is a lot of busywork that distracts from real learning. Nope, trivia memorization is not learning, nor is writing thick papers. 
+
+And what do I get if I’m willing to do such meaningless things? Nothing. I’ve done very thorough research on my profession as a software developer, and the final conclusion I get is this: I don’t need any degree to achieve what I want in the industry. 
+
+If I want to get into the technology industry, having a computer science degree will probably help, having a business degree probably won’t be that helpful, but having a real competency (which is easily demonstrated by showing my codes) will be very helpful.
+
+The hardest job to get for a non-degree programmer is the first job. Once I get my first job, my degree (or lack of it) will matter less and less with time, since employers will care more about my track record in the field.
+
+As for my future, whether I’d want to be a consultant, entrepreneur, tech manager, specialist, hacker, system architect, etc. what matter are technical skills, learning skills, social skills, business skills, reputation (of being a highly skilled professional), and some theoretical knowledge (which I can gain on my own pace outside of college through MOOC, OCW, e-textbooks, etc.). My lack of degree won’t matter.
+
+What if I want to change my career? Well, programmers may not earn too much, but they also don’t need to spend too much. The good and responsible ones are capable of retiring at their thirties. The talented or lucky ones are capable of retiring at their twenties. Once I have enough money to retire, changing career will be very easy. I’d just set aside some of my time to pursue it. And if I really need to get a degree for my new career, then I’d just go back to university with my own money.
+
+“But you still won’t be able to change your career before you get enough money to retire. And so, it’s probably a good idea to get your degree, just in case you suddenly want to change your career you know.”
+
+Business is unlike the medical profession. You don’t need a degree to make a business (ever heard of Richard Branson?). The only way a business degree can benefit me (as far as I know) is if I want to get into the corporate world or if I want to become an academician and pursue my postgrad (S2).
+
+If I suddenly want to change career and move into the corporate world, I’d probably regret my decision to drop out, right? Yes. But unfortunately, I’m not interested in climbing the corporate ladder. I’d rather be coding. I’d rather be learning.
+
+And if I want to work in the academy, I would pursue Math or Physics degree and not Business degree with minor in Finance. Rather than becoming a Finance researcher and lecturer, I’d rather be an entrepreneur.
+
+## Dropping out is a polarization tool
+
+“Well. If you drop out, employers may not think well of you, you know? For example, you might not even get that first job that you need, because employers may think that you’re not the type to commit until the end.”
+
+Polarization: a sharp division, as of a population or group, into opposing factions.
+
+If you get a tattoo, some people will dislike you more (than if you don’t have any), and other will like you more (on first impression, before they get to see who you truly are). Dropping out works the same way as tattooing yourself. 
+
+It’s inevitable that some employer will look down on me for not finishing my study. But, that’s fine by me, because I’m quite sure that I’d connect better with the people who’d accept my decision to drop out.
+
+I prefer to work for and with people who recognize that employers that focus less on employees’ degree and other kinds of red tape (e.g. unnecessary dress codes for employees who don’t interact with outside stakeholders, strict unnecessary procedures, etc.), while concentrating on outputs’ quality will be more likely to survive (because buyers care only for the value that you provide). I prefer to work with them because I hate being bounded by red tapes (and for survival reasons).
+
+Hence, if an employer looks down on me because I don’t have a degree, that’s fine by me, since odds are he’ll try to bind me with many red tapes that I hate anyway. And, if an employer doesn’t mind about my decision or maybe even find my calculated recklessness to pursue what I truly want is admirable (yes there are people like that, just like there are people who love guys covered in tattoos), that’s probably a good sign, since odds are he’ll be an employer who’d let me be productive and have fun doing it (with as little formalities as possible).
+
+## The most important reason I drop out…
+
+… is because I want what I want (I decide what my life path is), and I’m capable and selfish enough to pursue it.
+
+Or, if you want a less in-your-face reason: I drop out because that’s what a logical, rational person would do given his knowledge of his own self and of the current circumstances of this world. 
+
+Hmm… That somehow sounds even more in-your-face then the previous reason. Well, let’s do it this way…
+
+Whether I get a degree or not doesn’t really matters for me since it doesn’t affect my future that much. So, I choose to drop out because that’s what I want to do (Yep, I’m a pretty selfish person).
+
+**So, using the paragraph above, if anyone ask me in real life why I drop out, my short answer will be: because it doesn’t really matters (ga ngaruh) and because I want to (pengen aja).**
+
+That might sound too flippant. But, unless they’re willing to read this long-ass post, I’m also not willing to give them a serious answer. But, then again, if they do read this post, they won’t need any serious answer directly from me, since this post will give them the serious answer that they want, and will make them realize that the flippant answer I give above is actually derived from many serious considerations.
+
+Well. Actually, if I suspect the asker might understand, I’d answer that: I drop out since, aside from the FACT that dropping out is the most economically optimal decision (at least it is, for me), it is my little contribution to the recent social movement of “drop out techies and entrepreneurs” with the purpose of making the industry more open to employing professional with good skill but no degree; and the hope that this social movement will result in a learning revolution in which society, especially educational institutions, are forced (since degrees will be worth less than skills) to stop playing dead, get their act together, and be more efficient… or just die already (this is the survival reason I mentioned above: if any organization love to bind themselves in red tapes so much, they probably won’t really care if the tapes bind them to their death anyway).
+
+## Closing Thoughts
+
+I’m grateful for all the wonderful lecturers and staffs of the university. I cherish all my awesome friends and acquaintances that accept (or at least tolerate) my weirdness (like standing on my hands for the hell of it when recess/break times come). I’m thankful for all the experiences and memories that I’ve gained in the university.
+
+But, it’s time for me to go. So, off I go…
+
+## P.S.
+
+Should you drop out too? I don’t know. You are the person who knows yourself and your circumstances. You’re responsible for your own decision.
+
+Would I encourage other students to drop out? No. We don’t need incompetent people engaging in wishful thinking and breaking themselves in the process of trying to “achieve their dreams.”  We need hunters, who pursue things that they truly want, despite harsh ridicule and strong opposition, because they truly know they can.
+
+If you do decide to drop out, here’s a gentle reminder from a fellow struggler: Don’t shoot for the moon if you don’t have the motivation and capability to follow through. You’ll end up in a vast emptiness (which people refer to as “the space”) with a pile of steel junk (which you refer to as “your dream”).
