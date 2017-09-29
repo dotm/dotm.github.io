@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Underlying pattern (what fanatic atheist and fanatic religious guy have in common)"
+title: "Underlying pattern (what fanatic atheist and fanatic religious guys have in common)"
 ---
 
 There’s a curious but sensible meta-pattern in this world: the same underlying pattern, put in contrasting environments may create contrasting (or even conflicting) results.
