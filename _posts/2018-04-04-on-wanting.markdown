@@ -9,7 +9,7 @@ There three types of wanting:
 - Things you think you want
 - Things you truly want
 
-Things you say you want are influenced by scripts existing in your environment. In a very liberal environment, you might say you want to go to the club so that you’re perceived as sociable even though you just want to stay at home because you’re dead tired after work. In a very religious environment you might say you want to go to church every Sunday to be seen as virtuous even though you just want to stay at home because you’re dead tired after work.
+Things you say you want are influenced by scripts existing in your environment. In a very liberal environment, you might say you want to go to the club so that you're perceived as sociable even though you just want to stay at home because you're dead tired after work. In a very religious environment you might say you want to go to church every Sunday to be seen as virtuous even though you just want to stay at home because you're dead tired after work.
 
 Things you think you want exist in the conscious part of your existence and it might be different from things you truly want. You might think you want more money to buy luxurious stuff, even though what you truly want may be simple recognition from your peers.
 

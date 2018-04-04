@@ -13,4 +13,4 @@ Once, I found things that I consider fun, I'd do it day-by-day, every day. Putti
 
 With discipline, I have fun every day. Until one day, years later, "suddenly" I find myself doing crazy awesome things with my crazy awesome capability.
 
-I whisper this thing to myself at night every day. Trying to make myself believe that it’s what I am. Because day-by-day, this wish will come true little by little if I believe and do as such. Because one day, years later, this wish may actually become reality if I believe and do as such.
+I whisper this thing to myself at night every day. Trying to make myself believe that it's what I am. Because day-by-day, this wish will come true little by little if I believe and do as such. Because one day, years later, this wish may actually become reality if I believe and do as such.
