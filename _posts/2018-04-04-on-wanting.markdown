@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Know Yourself, Know Others] On wanting"
+title: "[Less Wrong Premise] On wanting"
 ---
 
 There three types of wanting:

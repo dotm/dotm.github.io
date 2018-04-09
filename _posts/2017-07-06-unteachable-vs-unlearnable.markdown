@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "The unteachable vs. unlearnable"
+title: "[Less Wrong Premise] The unteachable vs. unlearnable"
 ---
 
 TL;DR: Unteachables are things that you must learn yourself. Unlearnables are things that most people won’t be able to learn (if you’re not born with it, you can’t learn to do it).
