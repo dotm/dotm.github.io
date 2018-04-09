@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "A meta-post: how to be [insert characteristic here]"
+title: "A meta-post: how to be {insert characteristic here}"
 ---
 
 Have you ever seen any “How to be a Real Man” post? Most likely such posts will be filled with rules and guidelines on how to be a real man. While following the rules on such posts can be useful in the quest to be a real man, in the real world, we do encounter some peculiarities: people who break such rules while still being considered as a real man. One example is the masculine quarterback who enjoys knitting. This thing is even covered in the “Real Men Wear Pink” page in TV Tropes. Why? How?

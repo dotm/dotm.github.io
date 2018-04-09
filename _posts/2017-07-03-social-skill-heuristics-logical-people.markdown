@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "Social skill heuristics for logical people"
+title: "[Mental Technique] Social skill heuristics for logical people"
 ---
 
 Some people are extremely logical. This trait, while not necessarily bad, can sometimes make it hard for such people to interact socially. Give them computers or mathematics and they’ll relish in the logical consistency of such system. Throw them into a social situation and they’ll start feeling uncomfortable because they can’t control anything.

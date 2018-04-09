@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "[Technical tips] Practice your foreign language speaking skill alone"
+title: "[Technical Tips] Practice your foreign language speaking skill alone"
 ---
 
 A common advice when you learn a foreign language is to speak with native speakers to improve your speaking skill. Unfortunately, most of the times, you won’t have many face-to-face time with native speakers. Plus speaking with native speakers can be embarrassing, inefficient (if you’re trying to converse and not just train your speaking skill), and costly (some people do pay to speak with native speaker, which is reasonable: if a foreigner tries to practice his Indonesian with me, I’ll probably charge a fee, too).

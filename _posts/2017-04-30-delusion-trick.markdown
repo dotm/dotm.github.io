@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "Delusion trick"
+title: "[Mental Technique] Delusion trick"
 ---
 There’s a quotation saying that “If you tell the truth, you don't have to remember anything.” Here’s a catch: I know of a way so that you don’t have to tell the truth nor remember anything. You can achieve this by using a false belief to create a delusion. Let me elaborate.
 

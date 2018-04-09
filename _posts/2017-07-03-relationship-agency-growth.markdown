@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "The relationship between agency and growth"
+title: "[Less Wrong Premise] The relationship between agency and growth"
 ---
 
 Giving more freedom to all people in a population creates more variance of growth. Give more agency to all people and some will excel exponentially, some will improve linearly, some will get stuck in a constant plateau, and some will go down asymptotically toward zero.
