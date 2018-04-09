@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "[Technical Tips] Reading by typing to a note-taking software"
+title: "Reading by typing to a note-taking software [Technical Tips]"
 ---
 
 Sometimes, the most efficient way to read a book is by taking notes (exceptions: biography, fiction, history book, etc.). And the most efficient way to take notes is using software.

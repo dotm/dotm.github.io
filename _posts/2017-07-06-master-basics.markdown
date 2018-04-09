@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "[Less Wrong Premise] Master of basics"
+title: "Master of basics [Less Wrong Premise]"
 ---
 
 As a beginner, we are often awed by the spectacle of flourish. We like seeing the martial artist that does acrobatic kicks, the singer who sings with lots of vibratos or vocal runs, etc. And as we start to idolize these flourish, we give our best efforts to learn and master such things. Surely, we think, these extravagant flourishes are what separate the pro and the amateur right? Nope.

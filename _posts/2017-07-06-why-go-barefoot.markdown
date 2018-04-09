@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "[Technical Tips] Why I go barefoot a lot of the time"
+title: "Why I go barefoot a lot of the time [Technical Tips]"
 ---
 
 In college, one of the things I was known for is that I’m that kid who put off his shoes whenever he gets the chance. Yup, I try to go barefoot whenever I can, even in classes. When I can’t, I usually wear thin-soled shoes (minimalist shoes), e.g. Converse sneakers. No, I don’t go barefoot to disrespect other people. I have my own reasons to do so.

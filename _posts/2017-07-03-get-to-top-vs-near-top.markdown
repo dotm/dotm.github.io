@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "[Less Wrong Premise] Getting to the top vs. getting near the top"
+title: "Getting to the top vs. getting near the top [Less Wrong Premise]"
 ---
 
 Getting to the top requires different strategy than getting near the top. Sometimes, the strategy that works to get you near the top will hinder you from reaching the absolute top.

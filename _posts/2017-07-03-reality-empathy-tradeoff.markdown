@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "[Less Wrong Premise] The reality-empathy tradeoff"
+title: "The reality-empathy tradeoff [Less Wrong Premise]"
 ---
 
 The tradeoff of reality is empathy. It’s easy for us, being raised in a scientific background, to hail and pedestalize truth and reality. We often forget that human have been grappling with reality for thousands of years and that we do survive even though we are still far from knowing reality. In contrast, will human still survive if we lose our empathy or, at least, our theory of mind? 

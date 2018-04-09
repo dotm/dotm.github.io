@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Less Wrong Premise] On wanting"
+title: "On wanting [Less Wrong Premise]"
 ---
 
 There three types of wanting:

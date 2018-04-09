@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "Resolve conflicting heuristics"
+title: "Resolve conflicting heuristics [Mental Technique]"
 ---
 
 Far-left policy or far-right policy? Wait until the perfect moment or take action right now? Plan everything out or just go with the flow? In this world, heuristics often conflict each other. 

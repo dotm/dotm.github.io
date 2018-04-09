@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Less Wrong Premise] Be humble, keep soaring"
+title: "Be humble, keep soaring [Less Wrong Premise]"
 ---
 
 How does other people's stupidity hinder your progress? By making you lose your humbleness.

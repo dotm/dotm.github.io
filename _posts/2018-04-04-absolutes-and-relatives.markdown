@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Less Wrong Premise] The absolutes and the relatives"
+title: "The absolutes and the relatives [Less Wrong Premise]"
 ---
 
 In this universe, there are things that are absolute: things that are eternally unchanging or at least unchanging for a long time.

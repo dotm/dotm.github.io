@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "[Technical Tips] Switching to DVORAK so you can touch type"
+title: "Switching to DVORAK so you can touch type [Technical Tips]"
 ---
 
 This is the most important benefit that I get from DVORAK: being able to touch type

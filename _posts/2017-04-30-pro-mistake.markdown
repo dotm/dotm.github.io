@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "[Less Wrong Premise] The pros make mistakes too (even if they seem to be perfect)"
+title: "The pros make mistakes too (even if they seem to be perfect) [Less Wrong Premise]"
 ---
 
 Here’re some loops for your consideration. They may be a bit simplistic, but they can be pretty useful, especially if you’re clueless about things, like me when I was younger.

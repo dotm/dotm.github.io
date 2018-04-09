@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "[Technical Tips] Using run as textual shortcut for Windows software and file"
+title: "Using run as textual shortcut for Windows software and file [Technical Tips]"
 ---
 
 Do you know you can open shortcut files (.lnk files) with Run?

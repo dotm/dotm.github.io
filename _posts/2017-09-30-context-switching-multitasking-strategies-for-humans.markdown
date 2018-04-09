@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: "[Mental Technique] Context switching: multitasking strategies for humans"
+title: "Context switching: multitasking strategies for humans [Mental Technique]"
 ---
 
 Human’s brain isn’t capable of multitasking. When they do ‘multitask,’ what they’re really doing is switching rapidly between several tasks (do A then B then C etc.). You know what else behave like human brain? Operating system. Once upon a time, computers can’t multitask, so they use scheduler to rapidly switch the task they’re working on. 

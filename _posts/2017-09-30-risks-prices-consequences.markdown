@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "[Less Wrong Premise] Risks, prices, consequences"
+title: "Risks, prices, consequences [Less Wrong Premise]"
 ---
 
 Consequences are things that **will** happen. For example, if you want to be an Olympic athlete, then you will train hard a lot of the time.
