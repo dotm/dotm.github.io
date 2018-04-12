@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Type signature, vectorized ML algorithm, and jigsaw puzzle"
+title: "Type signature, vectorized ML algorithm, and jigsaw puzzle [Technical Tips]"
 ---
 
 There's this interesting technique to find or create function by only looking at the inputs and the outputs of that function. I'd call this technique the Jigsaw Technique, but I'm still open for a better name for this technique (and a better title for this post). Let me elaborate on this technique (TL;DR is at the end).
