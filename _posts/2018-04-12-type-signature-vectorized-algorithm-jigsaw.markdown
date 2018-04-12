@@ -8,13 +8,14 @@ There's this interesting technique to find or create function by only looking at
 Say you want a function. You have a Monad and an input function (that takes a normal value and return a Monad) as input. And you want to find a higher order function that applies that input function to element(s) inside the Monad. How do you do that?
 
 Well, first let's write out the type signature of the inputs:
+
 -	The Monad will have type: Monad input_monad
-  - or in Haskell: Monad m => m a
+    - or in Haskell: Monad m => m a
 -	The input function will have this type signature: normal_value -> Monad output_monad
-  - or in Haskell: Monad m => (a -> m b)
+    - or in Haskell: Monad m => (a -> m b)
 Then we write the type signature of the desired output:
 -	The resulting output will have type: Monad result_monad
-  - or in Haskell: Monad m => m b
+    - or in Haskell: Monad m => m b
 
 So, this function we want to find will have the type signature: Monad m => m a -> (a -> m b) -> m b
 
@@ -45,17 +46,21 @@ The output we want is to label all the 5000 training example with the appropriat
 Let's use the Jigsaw Technique to (magically) create this function.
 
 X is 5000 by 401
+
 Theta is 10 by 401
 
 Applying theta will results in the predictions of each training example to all potential class. To apply it we just look at the dimension of X and theta. We see a mismatch if we want to apply matrix multiplication, but that can be remedied by transposing one of them. Which one do we transpose? Well since the end result will have 5000 by 1 dimension, it's probably better to not transpose the X, since the X has that 5000 as row.
 
 Theta^(T) is 401 by 10
+
 Prediction = X * Theta^(T)
+
 Prediction is 5000 by 10
 
 Now we just have to get the index of the maximum value of each 5000 row of training example.
 
 That's it.
+
 We don't have to worry about translating the sigma notation of the formula bit-by-bit into matrix multiplication. We just look at the input dimensions, look at the output dimensions, do the appropriate transpose and multiply them. And, BOOM, by the power of magic we get the correct result.
 
 TL;DR. The essence of Jigsaw Technique is this. We have 3 adjacent pieces of jigsaw puzzle (ooo). The inputs collectively represent one piece of the puzzle (o--). The outputs collectively represent another piece (--o). You want to find the correct middle piece (-o-) that will take you from the inputs to the outputs. What you do is just look at the shape of the left and the right piece, and you'll have an easier time getting the correct middle piece.
