@@ -19,21 +19,21 @@ Then we write the type signature of the desired output:
 
 So, this function we want to find will have the type signature: Monad m => m a -> (a -> m b) -> m b
 
-It takes 'm a' (the monadic input value) and the function '(a -> m b)' (which takes a normal value and output a monadic value), and use both output to create another monadic value 'm b'.
+It takes 'm a' (the monadic input value) and the input function '(a -> m b)' (which takes a normal value and output a monadic value), and use both output to create another monadic value 'm b'.
 
-If you search 'Monad m => m a -> (a -> m b) -> m b' at Hoogle, you'll find that the >>= function have exactly that type signature. And lucky you, that >>= function does exactly what you want: applies an input function to element(s) inside the Monad.
+If you search 'Monad m => m a -> (a -> m b) -> m b' at Hoogle, you'll find that the `>>=` function have exactly that type signature. And lucky you, that `>>=` function does exactly what you want: applies an input function to element(s) inside the Monad.
 
 Sometimes, you won't be so lucky. Sometimes you'll find two or more functions that have the type signatures you're looking for, and then you'll have to read the body of those functions until you find one that exactly match your requirement.
 
-Sometimes, you'll even be less lucky and you won't find that function to be built-in, and you'll need to write it yourself. Even in such times, you'll find that knowing the type signatures of the inputs and outputs will help you write the function body by giving you hints on how to transform the inputs little-by-little until you have the desired outputs.
+Sometimes, you'll even be less lucky. You might find that the function you want is not built-in, and you'll need to write it yourself. Even in such times, you'll find that knowing the type signatures of the inputs and outputs will help you write the function body by giving you hints on how to transform the inputs little-by-little until you have the desired outputs.
 
 Now, let's move to Machine Learning. Some algorithms for Machine Learning (linear regression, logistic regression, etc.) can be implemented using for loop or using matrix and vector operations. Using matrix and vector operations to implement the algorithm is called vectorizing the algorithm. 
 
-The difference in performance between vectorized and non-vectorized algorithm is not laughable. I once run both vectorized and non-vectorized implementation of a multi-class classification problem using logistic regression. The non-vectorized run for about 5 minutes and the vectorized one takes only about 15 seconds.
+The difference in performance between vectorized and non-vectorized algorithm is not laughable. I once run both vectorized and non-vectorized implementations of a multi-class classification problem using logistic regression. The non-vectorized run for about 5 minutes and the vectorized one takes only about 15 seconds.
 
-So how do you write an algorithm using matrix and vector operators (and not using loop)? How do you translate the formula of logistic regression into a vectorized algorithm (which use sigma notation and hence easier to translate to loop)?
+So how do you write an algorithm using matrix and vector operators (and not using loop)? How do you translate the formula of logistic regression into a vectorized algorithm? (The formula use sigma notation and hence easier to translate to loop than to matrix and vector operations)
 
-Well, you can try to translate each sigma into matrix and vector operation by looking at the definitions of each operation. For example, the dot product of two vectors is the sum of element-wise multiplication of the two vectors. And, the matrix multiplication is... Well you know how complex matrix multiplication is.
+Well, you can try to translate each sigma into matrix and vector operation by looking at the definitions of each operation. For example, the dot product of two vectors is the sum of element-wise multiplication of the two vectors. And, the matrix multiplication is... Well, you know how complex matrix multiplication is.
 
 An easier way is to use the Jigsaw Technique. But, this time, instead of looking at type signatures, we'll be looking at matrix (or vector) dimensions.
 
