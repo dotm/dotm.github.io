@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "My idea of femininity and masculinity"
 ---
@@ -21,7 +21,7 @@ People usually don’t realize the idea of an idea serving humanity (as a whole 
 
 The scientists who work for the advancement of humanity are serving the idea of science, which in turn is serving humanity as a whole. An example of this is those who created the internet. They labor to create the internet, which in turn serve all people, whether they are good or bad.
 
-The saints who labor in the name of God are serving the idea of God, which in turn is serving humanity as a whole. An example of this is Mother Theresa who labor for all the people she can serve, whether the people she serve are good or bad.
+The saints who labor in the name of God are serving the idea of God, which in turn is serving humanity as a whole. An example of this is saints who labor for all the people they can serve, whether the people they serve are good or bad.
 
 The idea of mafia is created for the sake of the clan. The members are obliged to serve the clan, which in turn will benefit all members of that clan.
 
