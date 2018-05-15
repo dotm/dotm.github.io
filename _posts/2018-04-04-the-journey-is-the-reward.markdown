@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The journey is the reward"
+title: "The journey is the reward [Keeping Symmetry]"
 ---
 
 The journey is the reward. The process is more important than the result. And the only sustainable process is the one where you have fun.

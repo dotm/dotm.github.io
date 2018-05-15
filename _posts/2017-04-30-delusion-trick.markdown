@@ -4,9 +4,9 @@ title: "Delusion trick [Mental Technique]"
 ---
 There’s a quotation saying that “If you tell the truth, you don't have to remember anything.” Here’s a catch: I know of a way so that you don’t have to tell the truth nor remember anything. You can achieve this by using a false belief to create a delusion. Let me elaborate.
 
-Delusion here means a persistent false belief regarding the self or persons or objects outside the self that is maintained despite indisputable evidence to the contrary.
+Delusion here means a persistent false belief regarding other people, objects outside the self, or the self itself that is maintained despite indisputable evidence to the contrary.
 
-The process is very simple in theory, if you have the prerequisites. Everyone have false beliefs, so try to spot one that you can use. If you can’t find any delusion that you can use, create the false belief yourself. Once you have one false belief that you can use, reinforce it continually until it becomes a delusion. You know you have succeed when your target continue to belief his false belief despite contrary evidence that he encounters. 
+The process is very simple in theory, if you have the prerequisites. Everyone has false beliefs, so try to spot one that you can use. If you can’t find any delusion that you can use, create the false belief yourself. Once you have one false belief that you can use, reinforce it continually until it becomes a delusion. You know you have succeed when your target continue to belief his false belief despite contrary evidence that he encounters. 
 
 One advantage of this technique is that, unlike lying, once you succeed in creating delusions, you don’t have to remember which delusions you had create to whom. Even if you slip multiple times, your target will still believe his delusions. Most of the time, it takes a very dramatic event for a delusion to shed off.
 
