@@ -64,3 +64,5 @@ That's it.
 We don't have to worry about translating the sigma notation of the formula bit-by-bit into matrix multiplication. We just look at the input dimensions, look at the output dimensions, do the appropriate transpose and multiply them. And, BOOM, by the power of magic we get the correct result.
 
 TL;DR. The essence of Jigsaw Technique is this. We have 3 adjacent pieces of jigsaw puzzle (ooo). The inputs collectively represent one piece of the puzzle (o--). The outputs collectively represent another piece (--o). You want to find the correct middle piece (-o-) that will take you from the inputs to the outputs. What you do is just look at the shape of the left and the right piece, and you'll have an easier time getting the correct middle piece.
+
+Note: unit tests are crucial to ensure correctness when you use this magical programming technique.
