@@ -13,20 +13,20 @@ Understanding both of these will make us better able to see the flow of the univ
 
 In my observation (which can be very wrong), the things that are absolutes can be categorized as such: the law of physics, the principles of the universe, and the nature of human.
 
-The law of physics refers to the things that humans (or other object inside the universe) cannot break. Such as: humans can't stop the flow of entropy, ordinary water can't defy the law of gravity.
+The law of physics refers to the things that humans (or other object inside the universe) cannot break. Such as: humans can't jump to the tenth floor of a building (given humans' muscle limitation and earth gravity constant).
 
-The principles of the universe refer to things that human can technically break but it'll be unwise to do so. Such as: we must not use dangerous substances (we can but it's unwise to do drugs).
+The principles of the universe refer to things that human can technically break but it'll be unwise to do so. Such as: humans can consume heroin or jump from the tenth floor of a building (but they probably shouldn't without good reasons).
 
-The nature of human is the tendency of humans (or some humans) to think and act in a certain way, to pursue certain things, or to move to a certain beat. Examples: people who like power will gravitate to position of power, most people want to feel important, all people get wiser (or at least clever) with time, etc.
+The nature of human is the tendency of humans (or some humans) to think and act in a certain way, to pursue certain things, or to move to a certain beat. Examples: people who like power will gravitate to position of power, most people want to feel important, almost all people get wiser (or, at least, more clever) with time, etc.
 
 ## The relatives
 
 Anything that is not absolute, anything that changes, is a relative.
 
--The dominancy of left-wing or right-wing in politics is a relative.
--The position of an economic system in its cycle of economy is a relative.
--The expected life span of human is a relative.
--Etc.
+- The dominancy of left-wing or right-wing in politics is a relative.
+- The position of an economic system in its cycle of economy is a relative.
+- The expected life span of human is a relative.
+- Etc.
 
 ## Manipulating the time period range
 
