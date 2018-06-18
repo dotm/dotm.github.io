@@ -10,7 +10,7 @@ The importance of these priorities are to be held above the importance of my own
 From 2015 onward, the priorities are:
 
 -  Survive and keep the soul intact
--  Train hard
+-  Train hard to be able to contribute to significant artworks when the time comes
 -  Move toward the frontier and wait for further instructions
 
-Note to self: Don't mind too much about the people who can't even see my existence, you'll end up killing yourself in the manner of some of those who came before me.
+Note to self: Don't mind too much about the people who can't even see my existence, you'll end up getting depressed and killing yourself like some of those who came before me.
