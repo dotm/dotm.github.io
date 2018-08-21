@@ -121,15 +121,22 @@ An enjoyable fiction classic. To be honest, I don't get any useful insight from 
 ## Naruto by Masashi Kishimoto
 I started reading this manga when I was still in junior high. At that time, what I think about this manga was "Wow! Ninja and action! Cool!" Only after I reread it again in college that I begin to realize the deep story and wisdom within it. This manga is even more awesome than many of the so called literature classics in my opinion. Very awesome indeed that someday I may even write a post about it.
 
+----
+
 # Holy Texts
 Tao Te Ching by Lao Tzu, Holy Bible, LDS Church Triple Combination
+
+----
 
 # Malcolm Gladwell's books
 Reading Malcolm Gladwell's books is a strange experience. First, you see the title and expect to get a specific insight from the book. Let's call the specific insight: point X (as in X mark the spot). Then you start reading. The first few chapters seem to move toward X. But then, you realize that Malcolm takes you around the X spot and give interesting insights other than X. At the end of the journey, you feel satisfied, but, looking back, you realize that you never get to X!
 
 Malcolm Gladwell's books I've read: Outliers*, Tipping Point, David and Goliath*
 
+----
+
 # Non-book literatures
+
 ## The Lottery by Shirley Jackson*
 A classic example of the danger of group think and solidarity. As a boy that always has one foot outside of social circles, this short story make visible to myself the reason I'm a bit cautious when people throw around the (usually positive) word of solidarity.
 
@@ -141,6 +148,8 @@ Some sort of unscientific organization theory literature. I've read this blog se
 
 ## The Mathematician's Lament by Paul Lockhart*
 This essay explains the true, current, sad state of mathematics in educational institution using clear analogy.
+
+---
 
 # Programming Books
 
