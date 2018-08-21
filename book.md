@@ -8,9 +8,7 @@ Template:
 
   <article markdown="1">
 # Year
-All the books and literatures that I've read in Year
-
-The asterisk (*) means that I've read most, if not all, of the book. No asterisk means I've read only half of the book.
+All the books and literatures that I've mostly read (75% or more) in Year
 
 ## Books
 
@@ -23,9 +21,7 @@ The asterisk (*) means that I've read most, if not all, of the book. No asterisk
   <article markdown="1">
 
 # 2016
-All the books and literatures that I've read in 2016
-
-The asterisk (*) means that I've read most, if not all, of the book. No asterisk means I've read only half of the book.
+All the books and literatures that I've mostly read (75% or more) in 2016
 
 ## Poor Charlie's Almanack
 A book full of wisdom given from an old wise person. Charlie said that if you don't find the book useful, give it to a smarter friend of your. I concur.
