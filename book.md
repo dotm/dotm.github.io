@@ -131,7 +131,7 @@ Tao Te Ching by Lao Tzu, Holy Bible, LDS Church Triple Combination
 # Malcolm Gladwell's books
 Reading Malcolm Gladwell's books is a strange experience. First, you see the title and expect to get a specific insight from the book. Let's call the specific insight: point X (as in X mark the spot). Then you start reading. The first few chapters seem to move toward X. But then, you realize that Malcolm takes you around the X spot and give interesting insights other than X. At the end of the journey, you feel satisfied, but, looking back, you realize that you never get to X!
 
-Malcolm Gladwell's books I've read: Outliers*, Tipping Point, David and Goliath*
+Malcolm Gladwell's books I've read: Outliers, Tipping Point, David and Goliath
 
 ----
 
