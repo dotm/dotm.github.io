@@ -12,6 +12,10 @@ article{
 }
 article ul {
   list-style: disc;
+  margin-left: 35px;
+}
+article dl {
+  margin-left: 13px;
 }
 
 h1{
@@ -22,7 +26,7 @@ h2{
   font-size: 120%;
   margin-top: 4%
 }
-p{ margin: 1% }
+p{ margin: 13px }
 dl, ul{
   margin-left: 2%;
 }
