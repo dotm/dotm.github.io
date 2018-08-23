@@ -1,3 +1,7 @@
+site-navigation__list {
+  list-style: none;
+}
+
 article{
   background-color: #f8f8ff;
   box-shadow: 0px 0px 3px 3px #ddf;
@@ -5,6 +9,9 @@ article{
   text-align: justify;
   margin: 0;
   padding: 1%;
+}
+article ul {
+  list-style: disc;
 }
 
 h1{
