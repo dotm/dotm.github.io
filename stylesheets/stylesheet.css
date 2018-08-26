@@ -29,15 +29,20 @@ a:hover, a:focus { color: #667; }
 }
 .site-navigation__list-item { font: bold 100%/300% sans-serif; }
 
-section{
-  width: 75%;
-  min-height: 100%;
-  position: absolute;
+@media screen and (min-width: 800px) {
+  /* Styling in large screen (computer) */
+  section{
+    width: 75%;
+    min-height: 100%;
+    position: absolute;
+  }
 }
 
 @media screen and (min-width: 551px) and (max-width: 799px) {
   /* Styling in medium screen (tablet) */
-  section { width: 65%; }
+  section {
+    width: 65%; /* Give more space for navigation sidebar */
+  }
 }
 
 @media screen and (max-width: 550px) {
