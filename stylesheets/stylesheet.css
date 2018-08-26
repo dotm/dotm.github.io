@@ -66,6 +66,9 @@ site-navigation__list {
   .hidden-print { display: none; }
   .site-navigation { display: none; }
   
+  .page-title { text-align: center; }
+  .print-as-one-element { page-break-inside: avoid; }
+  
   #home-signature {
     display: block;
     width: 120px;
