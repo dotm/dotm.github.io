@@ -12,22 +12,9 @@ a:hover, a:focus { color: #667; }
   width: 200px;
 }
 
-.site-navigation {
-  width: 25%;
-  height: 100%;
-  position: fixed;
-  top: 0;
-  right: 0;
-  border-left: 3px solid #ddf;
-}
-.site-navigation__list {
-  margin-left: 35px;
-  bottom: 5%;
-  left: 75%;
-  position: fixed;
+site-navigation__list {
   list-style: none;
 }
-.site-navigation__list-item { font: bold 100%/300% sans-serif; }
 
 @media screen and (min-width: 800px) {
   /* Styling in large screen (computer) */
@@ -36,6 +23,22 @@ a:hover, a:focus { color: #667; }
     min-height: 100%;
     position: absolute;
   }
+  
+  .site-navigation {
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-left: 3px solid #ddf;
+  }
+  .site-navigation__list {
+    margin-left: 35px;
+    bottom: 5%;
+    left: 75%;
+    position: fixed;
+  }
+  .site-navigation__list-item { font: bold 100%/300% sans-serif; }
 }
 
 @media screen and (min-width: 551px) and (max-width: 799px) {
@@ -69,4 +72,11 @@ a:hover, a:focus { color: #667; }
 @media print {
   .hidden-print { display: none; }
   .site-navigation { display: none; }
+  
+  #home-signature {
+    display: block;
+    width: 120px;
+    margin: 10px auto;
+    padding: 10px 0;
+  }
 }
