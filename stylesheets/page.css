@@ -10,13 +10,10 @@ article{
   margin: 0;
   padding: 1%;
 }
-article ul {
-  list-style: disc;
-  margin-left: 35px;
-}
-article dl {
-  margin-left: 13px;
-}
+article ul, article ol { margin-left: 35px; }
+article ol { list-style: decimal; }
+article ul { list-style: disc; }
+article dl { margin-left: 13px; }
 article p { margin: 13px }
 article h1{
   font-size: 150%;
