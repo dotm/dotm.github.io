@@ -41,7 +41,3 @@ article dd{
     width: 120px;
   }
 }
-
-@media print {
-  .hidden-print { display: none; }
-}
