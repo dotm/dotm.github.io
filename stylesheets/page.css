@@ -29,7 +29,7 @@ article dd{
   display: block;
 }
 
-@media print, screen and (min-width: 551px) {
+@media screen and (min-width: 551px) {
   article{
     font-size: 120%;
     margin: 10px 45px;
@@ -40,4 +40,8 @@ article dd{
     padding: 10px 0;
     width: 120px;
   }
+}
+
+@media print {
+  .hidden-print { display: none; }
 }
