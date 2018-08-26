@@ -16,8 +16,8 @@ site-navigation__list {
   list-style: none;
 }
 
-@media screen and (min-width: 800px) {
-  /* Styling in large screen (computer) */
+@media screen and (min-width: 551px) {
+  /* Styling in large screen (computer) and medium screen (tablet) */
   section{
     width: 75%;
     min-height: 100%;
