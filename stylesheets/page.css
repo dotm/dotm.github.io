@@ -4,7 +4,7 @@ article{
   font: 100%/120% sans-serif;
   text-align: justify;
   margin: 0;
-  padding: 1%;
+  padding: 5%;
 }
 article ul, article ol { margin-left: 35px; }
 article ol { list-style: decimal; }
