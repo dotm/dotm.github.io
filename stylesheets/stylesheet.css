@@ -67,7 +67,6 @@ site-navigation__list {
   .site-navigation { display: none; }
   
   .page-title { text-align: center; }
-  .print-as-one-element { page-break-inside: avoid; }
   
   #home-signature {
     display: block;
