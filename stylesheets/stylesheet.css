@@ -25,18 +25,17 @@ a:hover, a:focus { color: #667; }
     right: 0;
     border-left: 3px solid #ddf;
   }
-  .site-navigation ul {
+  .site-navigation__list {
     margin-left: 35px;
     bottom: 5%;
     left: 75%;
     position: fixed;
   }
-  nav li { font: bold 100%/300% sans-serif; }
+  .site-navigation__list-item { font: bold 100%/300% sans-serif; }
 }
 
 @media screen and (min-width: 551px) and (max-width: 799px) {
   section { width: 65%; }
-  ul { left: 65%; }
 }
 
 @media screen and (max-width: 550px) {
@@ -49,7 +48,7 @@ a:hover, a:focus { color: #667; }
   .site-navigation {
     border-top: 3px solid #ddf;
   }
-  .site-navigation__list{
+  .site-navigation__list {
     margin-top: 10px;
   }
   .site-navigation__list-item {
