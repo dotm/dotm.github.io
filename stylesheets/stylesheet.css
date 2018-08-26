@@ -6,12 +6,36 @@ a {
 }
 a:hover, a:focus { color: #667; }
 
+site-navigation__list {
+  list-style: none;
+}
+
 @media print {
-  .site-navigation { display: none; }
   .hidden-print { display: none; }
+  .site-navigation { display: none; }
+
+  #home-signature {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 200px;
+  }
 }
 
 @media screen and (min-width: 551px) {
+  #home-signature {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 200px;
+  }
+  
   section{
     width: 75%;
     min-height: 100%;
@@ -44,6 +68,7 @@ a:hover, a:focus { color: #667; }
     display: block;
     width: 120px;
     margin: 10px auto;
+    padding: 10px 0;
   }
 
   .site-navigation {
