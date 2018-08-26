@@ -6,14 +6,6 @@ a {
 }
 a:hover, a:focus { color: #667; }
 
-ol{
-  font: bold 100% monospace;
-  margin: 2%;
-}
-ol li{
-  list-style-type: decimal;
-  margin-left: 40px;
-}
 @media print, screen and (min-width: 551px) {
   section{
     width: 75%;
