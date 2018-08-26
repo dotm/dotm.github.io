@@ -6,14 +6,18 @@ a {
 }
 a:hover, a:focus { color: #667; }
 
-@media print, screen and (min-width: 551px) {
+@media print {
+  .site-navigation { display: none; }
+}
+
+@media screen and (min-width: 551px) {
   section{
     width: 75%;
     min-height: 100%;
     position: absolute;
   }
   
-  nav {
+  .site-navigation {
     width: 25%;
     height: 100%;
     position: fixed;
@@ -21,7 +25,7 @@ a:hover, a:focus { color: #667; }
     right: 0;
     border-left: 3px solid #ddf;
   }
-  nav ul {
+  .site-navigation ul {
     margin-left: 35px;
     bottom: 5%;
     left: 75%;
@@ -30,25 +34,25 @@ a:hover, a:focus { color: #667; }
   nav li { font: bold 100%/300% sans-serif; }
 }
 
-@media print, screen and (min-width: 551px) and (max-width: 799px) {
+@media screen and (min-width: 551px) and (max-width: 799px) {
   section { width: 65%; }
   ul { left: 65%; }
 }
 
-@media print, screen and (max-width: 550px) {
+@media screen and (max-width: 550px) {
   #home-signature{
     display: block;
     width: 120px;
     margin: 10px auto;
   }
 
-  nav {
+  .site-navigation {
     border-top: 3px solid #ddf;
   }
-  nav ul{
+  .site-navigation__list{
     margin-top: 10px;
   }
-  nav li {
+  .site-navigation__list-item {
     font: bold 100%/200% sans-serif;
     text-align: center;
   }
