@@ -26,8 +26,14 @@ article dd{
 }
 
 @media screen and (min-width: 551px) {
+  /* Styling in large screen (computer) and medium screen (tablet)*/
   article{
     font-size: 120%;
     margin: 10px 45px;
   }
+}
+
+@media screen and (min-width: 800px) {
+  /* Styling in large screen (computer) */
+  article { padding: 10%; }
 }
