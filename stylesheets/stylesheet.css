@@ -13,29 +13,9 @@ site-navigation__list {
 @media print {
   .hidden-print { display: none; }
   .site-navigation { display: none; }
-
-  #home-signature {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 200px;
-  }
 }
 
 @media screen and (min-width: 551px) {
-  #home-signature {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 200px;
-  }
-  
   section{
     width: 75%;
     min-height: 100%;
