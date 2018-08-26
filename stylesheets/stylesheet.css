@@ -16,6 +16,10 @@ site-navigation__list {
   list-style: none;
 }
 
+@media screen and (min-width: 800px) {
+  /* Styling in large screen (computer) */
+  article {padding: 10%;}
+}
 @media screen and (min-width: 551px) {
   /* Styling in large screen (computer) and medium screen (tablet) */
   section{
