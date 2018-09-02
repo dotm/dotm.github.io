@@ -3,9 +3,9 @@ layout: post
 title: "My current priorities [Keeping Symmetry]"
 ---
 
-In accordance with the sacrifices of the kindred souls who came before me, with the responsibility that I have choose for myself, and for my own sustainable fun and improvement, I need to remember that these are my current priorities.
+Considering the sacrifices of kindred souls who came before me, the responsibility that I have chosen for myself, and my own sustainable fun and improvement, I need to remember that these are my current priorities.
 
-The importance of these priorities are to be held above the importance of my own life and comfort, but NOT above my own soul. Losing my life or experiencing tragedies for these priorities are fine. Losing my soul for these priorities are not fine.
+These priorities are more important than my own life and comfort, but NOT more important than my own soul. Losing my life or experiencing tragedies for these priorities is fine. Losing my soul for these priorities is not fine.
 
 From 2018 onward, the priorities are:
 -  Survive and keep the soul intact
