@@ -3,7 +3,7 @@ layout: post
 title: "On wanting [Less Wrong Premise]"
 ---
 
-There three types of wanting:
+There are three types of wanting:
 
 - Things you say you want
 - Things you think you want
