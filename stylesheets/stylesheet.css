@@ -36,6 +36,8 @@ site-navigation__list {
     position: fixed;
   }
   .site-navigation__list-item { font: bold 100%/300% sans-serif; }
+
+  .go-to-nav-bar { display: none; }
 }
 
 @media screen and (max-width: 550px) {
@@ -57,11 +59,18 @@ site-navigation__list {
     font: bold 100%/200% sans-serif;
     text-align: center;
   }
+
+  .go-to-nav-bar {
+    display: block;
+    font: bold 100%/200% sans-serif;
+    text-align: center;
+  }
 }
 
 @media print {
   .hidden-print { display: none; }
   .site-navigation { display: none; }
+  .go-to-nav-bar { display: none; }
   
   .page-title { text-align: center; }
   
