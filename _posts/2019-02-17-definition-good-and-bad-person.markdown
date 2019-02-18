@@ -22,6 +22,8 @@ Using the 4 archetypes from Cipolla, we can simplify it even more: good people a
 Of course, in real life, a person can be one of the 4 archetypes at different times. Even if a person is intelligent most of the time, there'll be times when he'd act in a sociopathic way or even in a stupid way.
 
 Since I don't trust anyone (including myself) to not act sociopathically or stupidly (at least some of the time), my general strategy on handling people is to:
-- avoid stupid people who have too much of a hard time seeing incentive structures
+
+- avoid (stupid) people who have too much of a hard time seeing incentive structures
+- avoid (sociopathic) people who focus on short-term gain rather than long-term return
 - make sure we have mutually beneficial incentive structures (to prevent sociopathic acts)
 - make sure they know that those structures exist (to prevent stupid acts)
