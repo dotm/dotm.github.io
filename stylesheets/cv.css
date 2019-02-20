@@ -48,9 +48,6 @@ a{
   display: block;
   margin-bottom: 5px;
 }
-/* these two heights must match */
-.cv-header>section { height: 130px; }
-img.cv-photo { height: 130px; }
 
 
 .experience-item {
@@ -75,7 +72,11 @@ ul{
   body {
     background: linear-gradient(to right, #9495a1 0%, #c8c9d4 100%);
     min-height: 100vh;
+    line-height: 1.3
   }
+  /* these two heights must match */
+  .cv-header>section { height: 150px; }
+  img.cv-photo { height: 150px; }
 
   .header__left {
     width: 70%;
@@ -134,8 +135,9 @@ ul{
   img.cv-photo {
     display: block;
     margin: auto;
+    height: 100px;
   }
-  .cv-header>.left {
+  .cv-header>.header__left {
     text-align: center;
     margin-top: 10px;
   }
@@ -145,6 +147,9 @@ ul{
   a {
     text-decoration: none;
   }
+  /* these two heights must match */
+  .cv-header>section { height: 120px; }
+  img.cv-photo { height: 120px; }
 
   .header__left {
     width: 70%;
