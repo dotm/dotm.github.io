@@ -9,16 +9,16 @@ One of the possible solutions to resolve this conflicting heuristics and choosin
 
 For example, in most situations we must not wait until the perfect moment (100% probability of success), nor blindly take action right now. Instead, we should first decide that we will wait until the moment with an acceptable probability of success (stay in the middle). We must see the situation to spot such moments (see the terrain) and then take action. If we find out that such moments are hard to come by (feedback from the terrain), then we might need to lower the standard of required probability of success (swing a little to one side depending on the terrain). On the other hand, if we find out that such moments occur frequently enough, then we might need to raise the standard of required probability of success (swing a little to the other side depending on the terrain).
 
-A meta-problem of heuristics with the same solution: 
+A meta-problem of this heuristic with the same solution: 
 - Heuristic 1: Sometimes, we need to start from the middle and swing to one side or another depending on the terrain (as stated above).
 - Heuristic 2: Sometimes, we need to start from one extreme and move to the other side depending on the terrain (contrary to what has been stated above).
 - The solution is the same:
   - Stay to the middle in most situations.
-  - Recognize that you may need to start from one extreme (not the middle) based on the extreme rareness of a situation, your past experiences with said problem, the risk and reward structure of the conflicting heuristics (e.g. it’s better to overestimate your death-match opponent than to underestimate him), etc.
+  - Recognize that you may need to start from one extreme (not the middle) based on the extreme rareness of a situation (one heuristic is useful most of the time, and the conflicting heuristic is useful only when an exceptional situation arises), your past experiences with said problem, the risk and reward structure of the conflicting heuristics (e.g. it’s better to overestimate your death-match opponent than to underestimate him), etc.
   - Decide whether to lean to one extreme based on the factors stated above, or stick to the middle.
 
 
-**ASCII art for illustration (Hunting the Invisible Ant in a Dartboard, 2D version):**
+**ASCII art for illustration (Hunting the Invisible Ant in a Dartboard, 1D version):**
 
 ‘A’ here represents the invisible Ant or the Appropriate heuristic to use. ‘D’ here represents the Dart or Decision you made. The closer you hit the dart to the ant, the louder the ant will scream (this is the feedback from the terrain). The process above can be illustrated as such.
 
