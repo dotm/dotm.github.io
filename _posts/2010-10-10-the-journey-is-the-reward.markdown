@@ -9,7 +9,7 @@ I whisper this thing to myself every night. Trying to remember that the most imp
 
 I say this thing to myself every day. I'm NOT the kind of guy who ambitiously runs toward a goal and tries hard to achieve it. I'm the kind of guy who passionately does things that I consider fun.
 
-Once I found things that I consider fun, I'd do it day-by-day, every day. Putting milestones and goals only to make sure I progress steadily (and not because I think goals are important in and of itself). Progressing steadily only because it's more fun than standing still (and not because I stressed out over progress).
+Once I found things that I consider fun, I'd do them day-by-day, every day. Putting milestones and goals only to make sure I progress steadily (and not because I think goals are important in and of itself). Progressing steadily only because it's more fun than standing still (and not because I stressed out over progress).
 
 With discipline, I have fun every day. Until one day, years later, "suddenly" I find myself doing crazy awesome things with my crazy awesome capability.
 
