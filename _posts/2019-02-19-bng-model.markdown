@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "BNG Model (a meta-heuristic to find heuristics) [Mental Tools & Technique]"
+title: "BNG Model (a meta-heuristic to find heuristics) [Mental Technique]"
 ---
 
 ## What is heuristic?
