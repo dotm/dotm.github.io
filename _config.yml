@@ -20,6 +20,6 @@ github_username: dotm
 # Build settings
 markdown: kramdown
 
-#gems
-gems:
+#plugins
+plugins:
   - kramdown
