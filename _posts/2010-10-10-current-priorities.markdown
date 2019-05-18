@@ -10,7 +10,7 @@ These priorities are more important than my own life and comfort, but NOT more i
 From 2018 onward, the priorities are:
 -  Survive and keep the soul intact
 -  Train hard to be able to contribute to significant artworks when the time comes
--  Find and befriend those of the same soul
+-  Find and befriend those who are not threatened by my full existence
 -  Move toward the frontier and wait for further instructions
 
 From 2015 onward, the priorities are:
@@ -18,4 +18,4 @@ From 2015 onward, the priorities are:
 -  Survive and keep the soul intact
 -  Train hard to be able to contribute to significant artworks when the time comes
 
-Note to self: Don't mind too much about the people who can't even see your existence, you'll end up getting depressed and killing yourself like some of those who came before you.
+Note to self: Don't mind too much about the people who can't even see or don't want to see your full existence, you'll end up getting depressed and killing yourself like some of those who came before you.
