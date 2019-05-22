@@ -37,15 +37,29 @@ Be grateful and accept your new findings about the world whether it is good, bad
 
 You are ready to go to stage 3 once you find something that you’re passionate about, that you’re talented in, that will actually bring enough money for your livelihood, and that is realistic to pursue. Knowing more about your self is essential to know your passion and talent. Knowing more about the world is essential to know what skill is in demand and what things are realistic to pursue given your circumstances.
 
+Before we go to the next phase, let's define talent and passion first.
+
+Talent is when you know that you learn something faster than the average or do something better than the average **after you've tried it for a significant period of time** (for example, 3 months).
+
+While some talents can be earned (ability to work with numbers or people, seeing the world in a different way, etc.), some others can't be earned. Talents related to physical stuff usually can't be earned (for example, heights, ability to endure tiredness, ability to not get injured every time you're tackled, etc.). Deficiencies can actually become talents. For example, autistic people can focus on one thing for a very long time.
+
+While you don't really need talent, it will be what differentiates the awesome amateur and the world-class professional.
+
+Passion is when you feel that the annoying/bad parts of something are bearable compared to the fun/good parts of that thing. You know you're passionate at something when you face the annoying parts not by saying "I'm fed up with this thing." but instead by saying "Well, this is the price that I have to pay to enjoy the good parts."
+
+Passion is the thing that'll keep you focused for the long run which is what the next phase is all about.
+
 ## Phase III (Autumn)
 
 Stage 3 is the stage of focus. Once you find your calling, you must be courageous enough to focus intensely on that thing.
 
-I mention courage here because you will most likely be pressured to not focus in your calling by many people, including those closest to you. They’ll tell you that you need to be balanced, which is actually another word for mediocre. You’ll also experience pressure from other external non-human factors like societal norms, economical challenges, uncertainty, etc. Everyone can make good enough art. But, to be a great artist, you need to be fearless.
+I mention courage here because you will most likely be pressured to not focus in your calling by many people, including those closest to you. They’ll tell you that you need to be balanced, which is actually another word for mediocre. You’ll also experience pressure from other external non-human factors like societal norms, economical challenges, uncertainty, etc. You'll even experience pressure from your own self in the form of procrastination, laziness, nervousness, the fear of looking stupid when you start learning something, and a whole lot of other obstacles.
 
-You will still learn more things about yourself and the world. You will still need to accept your new findings. You may even still find other things you’re talented and passionate at that are feasible and realistic to pursue. But if you want to be a genius, you need to focus on a few things for decades.
+Everyone can make good enough art. But, to be a great artist, you need to be fearless.
 
-Human’s growth is not linear; it is more like a quadratic function. Once you pass the inflection point, your growth will explode. You can pass the inflection point faster by customizing your learning to what you’ve know about yourself in stage 1 and 2.
+You'll still need to learn more things about yourself and the world. You'll still need to accept your new findings. You may even still find other things you’re talented and passionate at that are feasible and realistic to pursue. Sure, you can jump ship if you think it is a good decision. But if you want to be a genius, you need to focus on a few things for decades.
+
+Human’s growth is not linear; it is more like a quadratic function. At first, things will progress slowly and it'll feel like you're going to take an eternity to be a genius. But, once you pass the inflection point, your growth will explode. You can pass the inflection point faster by customizing your learning to what you’ve known about yourself in stage 1 and 2.
 
 Keep your focus to train on your calling, and in more or less 3 years, you’ll become competent at it. Keep at it for more or less a decade, and you’ll be a world class genius. Keep at it for more or less 2 decades, and you’ll be a living legend.
 
