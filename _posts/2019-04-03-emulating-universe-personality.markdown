@@ -9,7 +9,7 @@ Emulating this 'ruthless' characteristic of the universe is often useful.
 
 Don't treat people with favoritism. The universe gives rain and sunshine to everyone.
 
-Don't bore ill intent toward others. The universe doesn't hate people even though they defile him with pollutions.
+Don't bore ill intent toward others. The universe doesn't hate people even though they defile it with pollutions.
 
 However, when the universe needs something to get done, it gets it done even if many people will suffer. It said "I'm gonna make a tsunami here. Oh, the people on this island doesn't have working tsunami detector because some bad citizens vandalize it? Well, too bad. People will die then."
 
