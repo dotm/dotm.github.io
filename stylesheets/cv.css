@@ -50,11 +50,10 @@ a{
   margin-top: 20px;
 }
 .experience-item__workplace {
-  text-decoration: underline;
+  font-size: 1.4em;
 }
 .experience-item__position-title {
-  margin-top: 5px;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 .experience-item__achievements{
   margin-top: 5px;
