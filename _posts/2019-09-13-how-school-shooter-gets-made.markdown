@@ -23,4 +23,4 @@ When they snap, they either kill themselves, kill others, or kill others and the
 
 Now, let's stop here and not talk about physical torture. We might end up talking about how a terrorist kingpin gets made.
 
-P.S. Obviously, there may be other ways to make a school shooter (or a terrorist kingpin). I don't know much about them though.
+P.S. Obviously, there may be other ways to make a school shooter (or a terrorist kingpin). I don't know much about them though. Ask the devil, it'll tell you.
