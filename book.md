@@ -7,10 +7,11 @@ style: /stylesheets/page.css
 Template:
 
   <article markdown="1">
-# Year
-All the books and literatures that I've mostly read (75% or more) in Year
 
-## Books
+# [Year]
+All the books and literatures that I've mostly read (75% or more) in [Year]
+
+## [Books]
 
   </article>
 
@@ -18,6 +19,81 @@ All the books and literatures that I've mostly read (75% or more) in Year
 
 <section>
   {% include signature.html %}
+
+  <article markdown="1">
+
+# 2018
+All the books and literatures that I've mostly read (75% or more) in 2018
+
+## Harry Potter and the Sorcerer's Stone
+Interesting story and world building.
+
+## Harry Potter and the Chamber of Secrets
+Interesting story and world building.
+
+## Clean Code
+In the same spirit as Code Complete but more focused on the coding part.
+
+## Learn You a Haskell for Great Good!
+Interesting book that teaches interesting language. Being able to think in functional paradigm changes the way I program in a better direction.
+
+## Head First Design Patterns
+Great introduction to design patterns. Better than the Gang of Four book for introduction.
+
+## Sams Teach Yourself SQL in 10 Minutes
+Basic syntax for SQL.
+
+## Don't Make Me Think, Revisited
+This book makes me realise the importance of usability testing
+
+## Mastering Bitcoin 2nd Ed. by Andreas M. Antonopoulos
+A good introduction to blockchain technology. No coding required, but coding experience makes understanding things easier.
+
+## F.U. Money by Dan Lok
+Similar with The Millionaire Fastlane, just with a different take.
+
+  </article>
+
+  <article markdown="1">
+
+# 2017
+All the books and literatures that I've mostly read (75% or more) in 2017
+
+## The Way of the Superior Man
+Interesting read. Heavy use of folk concepts and fluffy vocabulary. The essence of this book is concise, but the way the language is used makes it bigger than it needs to be.
+
+## The Mythical Man-Month: Essays on Software Engineering
+Good read. But, examples are too old. Many heuristics of software engineering outside of coding.
+
+## The Calculus Lifesaver
+I finally understand calculus. Yay!
+
+## Shoe Dog: A Memoir by the Creator of Nike
+On par with the Steve Jobs biography. Good read.
+
+## Problem Solving 101
+Interesting book that gives me interesting mental tools. This book is kid friendly (not much jargon and many cheerful example)
+
+## Talent Code
+Everyone should read this so that everyone can unleash the genius that lies within them.
+
+## How to Win Friends and Influence People
+A whole lot more practical than sociology textbooks. Read this if you want to get better social skill.
+
+## The Complete Running and Marathon Book
+Short book with many pretty pictures. Good for people trying out running.
+
+## The Pragmatic Programmer
+Battle-tested advices. I probably need to reread this multiple times.
+
+## The Millionaire Fastlane
+The no bullshit guide to getting rich. Summary: unless your time can be sold at a really high price (e.g. actress and pro-athlete), be an entrepreneur.
+
+## The 7 Habits of Highly Effective People
+I should read this when I was in high school. Doing so would spare me from countless unnecessary mistakes. This book is about principles and how living in accordance with them makes us more effective.
+
+  </article>
+
   <article markdown="1">
 
 # 2016
