@@ -3,6 +3,8 @@ layout: post
 title: "Productivity incentives (a mark of startup culture)"
 ---
 
+> Most companies pay people enough, so as they don't quit. People work hard enough, so as they don't get fired.
+
 One of the key differentiators of startup culture is how an organization incentivizes value generation of its employees.
 
 When an employee works above the expected job description, is he rewarded appropriately (e.g. with money, stocks, positions, connections, benefits, etc.) or is he rewarded mockingly (e.g. with a meaningless "employee of the month" award, with a pat on the back, etc.)?
