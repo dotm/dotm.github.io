@@ -1,7 +1,13 @@
-body{ background-color: #eef; }
+body{ background-color: #000; }
 
-a { color: black; }
-a:hover, a:focus { color: #667; }
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  color: rgb(211, 211, 211);
+  text-decoration: underline;
+}
 
 #home-signature {
   margin: 0 auto;
@@ -27,7 +33,7 @@ site-navigation__list {
     position: fixed;
     top: 0;
     right: 0;
-    border-left: 3px solid #ddf;
+    border-left: 1px solid rgb(247, 247, 247);
   }
   .site-navigation__list {
     margin-left: 35px;
@@ -50,7 +56,8 @@ site-navigation__list {
   }
 
   .site-navigation {
-    border-top: 3px solid #ddf;
+    margin-top: 10px;
+    border-top: 1px solid rgb(247, 247, 247);
   }
   .site-navigation__list {
     margin-top: 10px;
