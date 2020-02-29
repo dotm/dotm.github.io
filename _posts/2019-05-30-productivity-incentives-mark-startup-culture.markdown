@@ -13,4 +13,6 @@ Let's get honest, people who are rewarded mockingly might take the reward happil
 
 As employees, we need to do our best to work and create value. We then need to have faith that our employers will reward us fairly. And when they don't, we'll know that it isn't a startup, even if we are working in a small company.
 
+When employees feel that the culture of a company is a corporate culture (not a startup culture), they will not optimize productivity because doing so requires a lot of effort. If they don't get rewarded properly for their efforts, then why bother. They also won't bother with improving their skill to be able to generate more value because doing so also requires a lot of effort. They instead will start to play politics (kissing asses, fighting over thrones and resources, etc.) which is fine to a certain extent in a big organization. But in a startup context, this will spell quick doom to the organization.
+
 Startup culture is not about size. It's about the culture that emerges from the structures of the organization. One of those structures is a correct incentive system for productivity.
