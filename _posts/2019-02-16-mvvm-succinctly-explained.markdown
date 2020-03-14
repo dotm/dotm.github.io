@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "MVVM succintly explained"
+title: "MVVM succinctly explained"
 ---
 
 MVVM is just MVC with the addition of ViewModel.

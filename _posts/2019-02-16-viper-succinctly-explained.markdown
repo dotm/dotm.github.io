@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "VIPER succintly explained"
+title: "VIPER succinctly explained"
 ---
 
 The View/ViewController is responsible for displaying things from the Presenter and relays user input back to the Presenter.

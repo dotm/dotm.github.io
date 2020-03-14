@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Layered architecture succintly explained"
+title: "Layered architecture succinctly explained"
 ---
 
 Each layer depends on the layer below them through an interface - they don't know how the layer below them implement things.
