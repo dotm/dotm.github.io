@@ -3,8 +3,6 @@ layout: post
 title: "The importance of architecting after revolution"
 ---
 
-The importance of architecting after revolution
-
 Revolution can happen just from pure charisma of a leader or from the will of the masses. But after the revolution succeeds, after the old system is replaced by a new one, the technical skills of the new leaders are put to the test. Without good architecting capability to make the new system cleaner and better, the newly created system will soon fall, people will go back to the old system, and the revolution will be for nothing.
 
 **Warning: tech-speak ahead.**
