@@ -139,9 +139,7 @@ ul{
 }
 @media print {
   /* Styling in large screen (computer) and medium screen (tablet) */
-  a {
-    text-decoration: none;
-  }
+
   /* these two heights must match */
   .cv-header>section { height: 120px; }
   img.cv-photo { height: 120px; }
