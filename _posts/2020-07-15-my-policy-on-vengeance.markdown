@@ -25,4 +25,5 @@ Considerations:
 - Just forgiving wrongdoings creates a perverse incentive structure where people aren't encouraged to avoid making wrongdoing.
 - Avenging little accidental wrongdoings causes people to not want to interact with you in the fear of making accidental mistakes.
 - Focusing too much on exacting vengeance or delivering "justice" can make you forget about your other life goals and purposes. This is why I said, "I'll add this thing to my to-do list" and not "I'll do this thing to you as soon as possible and by all means possible."
+    - The exception to this is when someone is posing an active threat toward me. Such occasions should be handled in a prompt manner.
 - Possible means of vengeance: legal action, physical violence, character assassination, verbal abuse, mental abuse, etc.

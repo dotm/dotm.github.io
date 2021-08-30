@@ -15,4 +15,7 @@ If the recipient already functions well enough, the donation must promote and en
 
 Any act of giving that doesn't promote this development of the recipient shouldn't be considered as a charitable donation. Giving money to a prostitute is not charitable. Letting someone live on your money so that he can stroke your ego is not a donation.
 
+Another key principle can be said using an extension of a famous quote:
+give a man a fish and you feed him for a day; teach a man to fish and you feed him until all fish is eaten; **teach a man to farm fish and you feed him for the foreseeable future**.
+
 There are probably many other principles that I missed out on. We haven't even touched on the dynamic of organization-to-organization donations. But for now, these are probably enough.
