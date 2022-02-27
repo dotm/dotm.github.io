@@ -8,5 +8,3 @@ title: "The journeyman stance [Keeping Symmetry]"
 This is my journeyman stance.
 
 This statement stands as long as I am a journeyman, mercenary, hunter, or whatever the hell you want to call people who are paid for the skill they have and the art they make.
-
-Now replace the word value with love in the first paragraph above. And you'll get my stance as a lover.
