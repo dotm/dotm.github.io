@@ -3,11 +3,11 @@ layout: post
 title: "Prerequisites of improvising [Mental Technique]"
 ---
 
-Clear eyes, open hearts, informed mind, steady hands. 
+Clear eyes, opened heart, informed mind, steady hands. 
 
 "Clear eyes" means you can see things (current situations, your starting point, your weaknesses, your strengths, your target, etc.) as it is without filter and delusion.
 
-"Open hearts" means you are open to different approaches, even those that go against your current approaches or those that go against the conventional ones.
+"Opened heart" means you are open to different approaches, even those that go against your current approaches or those that go against the conventional ones.
 
 "Informed minds" means you evaluate new approaches by their merits. Keep what works, discard what doesn't.
 
