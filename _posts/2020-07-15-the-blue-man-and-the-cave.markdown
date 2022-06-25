@@ -9,7 +9,7 @@ I found this story as an image while Googling something years ago when I was in 
 
 Once upon a time, a blue man lived in a cave. He lived there with other people. But he seems to be the only blue man there. All the people he lived with was black. The blue man was accepted in that little community, but he and all the other people were always a bit bothered about this difference.
 
-The blue men had been in that cave from the day he was born, just like the other black people he lived with. And since then, he had been walking around in circles inside that cave with all the people there. And for all he knew, he might have died in that cave someday, just like other black people who have come and go before him. But then, there was the door.
+The blue man had been in that cave from the day he was born, just like the other black people he lived with. And since then, he had been walking around in circles inside that cave with all the people there. And for all he knew, he might have died in that cave someday, just like other black people who have come and go before him. But then, there was the door.
 
 One day, the blue man and the black people were resting after a long walk around the cave. While he was sitting, the blue man looked around and saw a hole in the wall of the cave about the size of a man. Curiosity made him go through that hole and he found himself in a little room with a wooden door in a corner of the room and a key in the floor in another corner. He grabbed the key and tried to open the door with it. The key fitted in the hole, but it seems to not work when he tried to turn it. Soon, he realized that the door had already been unlocked. He threw the key back to the floor and he opened the door.
 
