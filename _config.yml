@@ -17,6 +17,9 @@ blogurl: "/blog"
 #twitter_username: jekyllrb
 github_username: dotm
 
+exclude:
+- book.md
+
 # Build settings
 markdown: kramdown
 
