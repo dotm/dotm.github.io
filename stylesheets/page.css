@@ -1,0 +1,48 @@
+article{
+  background-color: #1d1d1d;
+  box-shadow: 0px 0px 3px 3px rgb(255, 255, 255);
+  color: white;
+  font: 100%/120% sans-serif;
+  text-align: justify;
+  margin: 0;
+  padding: 5%;
+}
+article ul, article ol { margin-left: 35px; }
+article ol { list-style: decimal; }
+article ul { list-style: disc; }
+article dl { margin-left: 13px; }
+article p { margin: 13px }
+article h1{
+  font-size: 150%;
+  margin-bottom: 2%
+}
+article h2{
+  font-size: 120%;
+  margin-top: 4%
+}
+article dd{
+  font-size: 90%;
+  margin-left: 13px;
+  display: block;
+}
+
+@media screen and (max-width: 550px) {
+  /* Styling in small screen (smartphone) */
+  .site-navigation {
+    margin-top: 10px;
+    border-top: 0px solid rgb(247, 247, 247);
+  }
+}
+
+@media screen and (min-width: 551px) {
+  /* Styling in large screen (computer) and medium screen (tablet)*/
+  article{
+    font-size: 120%;
+    margin: 10px 45px;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  /* Styling in large screen (computer) */
+  article { padding: 10%; }
+}
